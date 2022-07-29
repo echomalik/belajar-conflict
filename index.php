@@ -10,6 +10,4 @@
 	$kewarganegaraan = "";
 	$jk = "Laki-laki";
 
-
-
  ?>
