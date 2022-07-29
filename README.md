@@ -56,9 +56,10 @@ git clone https://github.com/inimalik/belajar-conflict.git
 	> 
 	> Pastikan kalian sudah terdaftar sebagai contributor pada repo https://github.com/inimalik/belajar-conflict. Hubungi saya jika belum menjadi contributor!
 	> 
-	> Dilarang keras untuk push langsung ke `develop`!!!!!
+	> Dilarang keras untuk push langsung ke `develop` ataupun `master` !!!!!
 	> 
 	> ~~git push -u origin develop~~
+	> ~~git push -u origin master~~
 	
 
 
