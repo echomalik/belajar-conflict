@@ -1,12 +1,11 @@
 <?php 
 
-	$nama = "Muhammad Hakim";
+	$nama = "Mohamad Tohari Maolana";
 	$umur = "17";
 	$alamat = "Jakarta";
-	$hobi = "TURU";
-	$pekerjaan = "Siswa";
-	$fav_warna = "black";
-	$fav_makanan = "yang penting halal";
+	$hobi = "Olah Raga,Bermain Game";
+	$pekerjaan = "Pelajar";
+	$fav_warna = "Putih";
 
 
  ?>
