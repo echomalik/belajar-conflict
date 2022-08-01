@@ -9,3 +9,15 @@
 
 
  ?>
+
+<?php
+
+	$nama = "Radit Naufal Pradita";
+	$umur = "17";
+	$alamat = "Jakarta";
+	$hobi = "Bermain Bola";
+	$fav_makanan = "Indomie";
+	$fav_warna = "Hitam";
+
+
+?>
